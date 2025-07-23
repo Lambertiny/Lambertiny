@@ -1,6 +1,9 @@
 # Nome da sua GitHub Action
 name: Generate Snake Animation
 
+permissions:
+  contents: write
+
 # Controla quando a Action será executada
 on:
   # Executa automaticamente a cada 12 horas
