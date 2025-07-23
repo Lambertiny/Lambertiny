@@ -14,11 +14,20 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <a href="https://github.com/Lambertiny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lambertiny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambertiny&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<table style="border-collapse: collapse; width: 100%;" align="center">
+  <tr>
+    <td style="padding: 0; text-align: center;">
+      <a href="https://github.com/Lambertiny">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lambertiny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td style="padding: 0; text-align: center;">
+      <a href="https://github.com/Lambertiny">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambertiny&layout=compact&langs_count=7&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tecnologias e Ferramentas
 
