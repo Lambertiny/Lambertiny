@@ -6,7 +6,7 @@
 </p>
 
 - 💼 Trabalho com **Web Design** e **Análise de Sistemas**
-- 🌱 Estudando **Programação** para construir coisas incríveis na web
+- 🌱 Estudando **Computação Quântica** para construir coisas incríveis na web
 -  pronouns Pronouns: **ela/dela**
 - 📫 Como me encontrar: **julambertiny@gmail.com**
 
@@ -16,14 +16,14 @@
 
 <table style="border-collapse: collapse; width: 100%;" align="center">
   <tr>
-    <td style="padding: 0; text-align: center;">
+    <td style="padding: 10px; text-align: center;">
       <a href="https://github.com/Lambertiny">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lambertiny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lambertiny&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800"/>
       </a>
     </td>
-    <td style="padding: 0; text-align: center;">
+    <td style="padding: 10px; text-align: center;">
       <a href="https://github.com/Lambertiny">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambertiny&layout=compact&langs_count=7&theme=dark"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambertiny&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
       </a>
     </td>
   </tr>
@@ -44,8 +44,6 @@
 </p>
 
 <div align="left"> 
-  <a <a href="https://www.tiktok.com/@julambertiny" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a <div align="center">
   <a href="https://www.tiktok.com/@julambertiny" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a href="https://www.instagram.com/julambertiny" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/julambertiny" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
