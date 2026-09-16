@@ -42,7 +42,7 @@ I work across **Web Design, UI/UX, responsive interfaces, CRM systems, automatio
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### BRIEF//AI
 
@@ -58,7 +58,7 @@ Transforms unstructured client input into analysis, strategy, creative direction
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Pulse CRM
 
@@ -74,7 +74,11 @@ A responsive CRM concept for leads, pipeline, tasks, opportunities, automation a
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Atelier Noir
 
@@ -87,6 +91,22 @@ A contemporary architecture portfolio exploring editorial restraint, typography,
 `Web Design` `UI/UX` `Front-End` `Responsive`
 
 [Live Demo](https://lambertiny.github.io/atelier-noir/) · [Repository](https://github.com/Lambertiny/atelier-noir)
+
+</td>
+
+<td width="50%" valign="top">
+
+### FOLLOW//UP
+
+**Proposal Operations**
+
+A responsive proposal operations workspace for tracking client decisions, follow-ups, automation rules and commercial signals.
+
+**Focus**
+
+`Vue` `TypeScript` `Vue Router` `Automation` `Product Design`
+
+[Live Demo](https://proposal-follow-up-ten.vercel.app) · [Repository](https://github.com/Lambertiny/proposal-follow-up)
 
 </td>
 
@@ -103,6 +123,8 @@ A contemporary architecture portfolio exploring editorial restraint, typography,
   <img src="https://img.shields.io/badge/JavaScript-11131B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-11131B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-11131B?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue-11131B?style=for-the-badge&logo=vuedotjs&logoColor=42B883" />
+  <img src="https://img.shields.io/badge/Vue_Router-11131B?style=for-the-badge&logo=vuedotjs&logoColor=42B883" />
   <img src="https://img.shields.io/badge/Vite-11131B?style=for-the-badge&logo=vite&logoColor=646CFF" />
   <img src="https://img.shields.io/badge/Python-11131B?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Figma-11131B?style=for-the-badge&logo=figma&logoColor=F24E1E" />
@@ -113,7 +135,7 @@ A contemporary architecture portfolio exploring editorial restraint, typography,
 
 ### Product & Systems
 
-`UI/UX` · `Responsive Design` · `CRM` · `Automation` · `AI-assisted workflows` · `Design Systems` · `Digital Strategy`
+`UI/UX` · `Responsive Design` · `CRM` · `Automation` · `AI-assisted workflows` · `Design Systems` · `Digital Strategy` · `Proposal Operations`
 
 ---
 
@@ -143,4 +165,15 @@ LAMBERTINY / BUILD QUEUE
 01  BRIEF//AI             SHIPPED
 02  PULSE CRM             SHIPPED
 03  ATELIER NOIR          SHIPPED
-04  PROPOSAL FOLLOW UP    NEXT BUILD
+04  FOLLOW//UP            SHIPPED
+```
+
+---
+
+<p align="center">
+  <strong>Systems · Interfaces · Intelligent Workflows</strong>
+</p>
+
+<p align="center">
+  <sub>Designed & developed by Juliana Nascimento — Lambertiny</sub>
+</p>
