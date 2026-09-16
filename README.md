@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Lambertiny?tab=repositories">
     <img
-      src="https://raw.githubusercontent.com/Lambertiny/Lambertiny/main/lambertiny-systems-lab.svg"
+      src="https://raw.githubusercontent.com/Lambertiny/Lambertiny/main/lambertiny-systems-lab.svg?v=4"
       alt="Lambertiny Creative Technology Lab"
       width="100%"
     />
