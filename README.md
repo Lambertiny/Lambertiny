@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/Lambertiny?tab=repositories">
     <img
@@ -145,16 +146,27 @@ A responsive proposal operations workspace for tracking client decisions, follow
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lambertiny&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lambertiny&show_icons=true&theme=dark&include_all_commits=false&count_private=true&cache_seconds=1800"
     height="180"
-    alt="Lambertiny GitHub statistics"
+    alt="Lambertiny annual GitHub activity, including shared private contribution counts"
   />
 </p>
 
 <p align="center">
   <sub>
-    GitHub statistics reflect repository activity and file composition — not the complete set of technologies I work with.
+    Annual activity includes the private contribution counts shared on my GitHub profile.
+    The contribution calendar also counts issues, pull requests and repository creation.
   </sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lambertiny#year-list-container">
+    <img
+      src="https://raw.githubusercontent.com/Lambertiny/Lambertiny/output/github-contribution-grid-snake.svg"
+      alt="Animated snake eating Lambertiny's GitHub contributions"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
